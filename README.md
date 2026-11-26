@@ -3,6 +3,7 @@
 # Name: KAMLESH P
 # Register No: 212225240067
 
+
 ## Aim
 
 To write a Python program using OpenCV to perform morphological Opening and Closing operations on an image.
